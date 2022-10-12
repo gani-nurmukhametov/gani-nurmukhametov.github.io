@@ -25,3 +25,12 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'jekyll-paginate'
+gem 'jekyll-gist'
+gem 'jekyll-redirect-from'
+gem 'kramdown-parser-gfm'
+gem 'webrick'
+
