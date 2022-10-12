@@ -22,7 +22,7 @@ programs*): Spr2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Spr2019<sup>*TA*</su
   * Statistics for Social Sciences<sup>*u*</sup> (STAT 221): Spr2017<sup>*TA*</sup>, Aut2020<sup>*TA*</sup>, Spr2021<sup>*TA*</sup>
   * Advanced Macroeconomics<sup>*u*</sup> (ECON 401): Aut2021<sup>*G*</sup>
   * Economic Analysis of the Law<sup>*u*</sup> (ECON 408): Spr2016<sup>*G*</sup>
-  * Topics in Financial Economics<sup>*u*</sup> (ECON 408): Spr2016<sup>*G*</sup>
+  * Topics in Financial Economics<sup>*u*</sup> (ECON 423): Spr2016<sup>*G*</sup>
   * Introduction to Macroeconomics<sup>*u*</sup> (ECON 201): Win2016<sup>*TA*</sup>, Aut2016<sup>*TA*</sup> 
   * Introduction to Microeconomics<sup>*u*</sup> (ECON 200): Aut2015<sup>*TA*</sup>
 
