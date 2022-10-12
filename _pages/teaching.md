@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-(*I*: Instructor, *TA*: Teaching Assistant, *G*: Grader;<br/> 
-*u*: undergraduate-level course, *g*: graduate-level course)
+*I*: Instructor, *TA*: Teaching Assistant, *G*: Grader;<br/> 
+*u*: undergraduate-level course, *g*: graduate-level course
 
 ## University of Washington, Michael G. Foster School of Business  
   * Introduction to Statistical Methods<sup>*u*</sup> (QMETH 201): Sum2022<sup>*I*</sup>, Aut2022<sup>*TA*</sup>
