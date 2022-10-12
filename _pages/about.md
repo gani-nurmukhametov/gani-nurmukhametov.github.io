@@ -27,3 +27,10 @@ Research Interests
 * Macroeconomics
 * International economics
 * Economic growth
+
+
+Teaching Experience
+------
+* Micro- and Macroeconomics
+* Business Statistics and Statistics for Social Sciences
+* Operations Management
