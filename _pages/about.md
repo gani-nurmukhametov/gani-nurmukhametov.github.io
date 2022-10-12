@@ -19,7 +19,7 @@ I am on the job market during the 2022–2023 academic year and available for in
 
 Curriculum Vitae
 ------
-Please find my Curriculum Vitae  [here](https://gani-nurmukhametov.github.io/blob/master/files/GaniNurmukhametov_CV.pdf.pdf).
+Please find my Curriculum Vitae  [here](https://gani-nurmukhametov.github.io/files/GaniNurmukhametov_CV.pdf).
 
 
 Research Interests
