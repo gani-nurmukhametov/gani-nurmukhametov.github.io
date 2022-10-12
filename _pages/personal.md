@@ -1,0 +1,4 @@
+---
+permalink: /personal/
+title: "Personal"
+---
