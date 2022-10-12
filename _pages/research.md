@@ -9,7 +9,7 @@ author_profile: true
 Job Market Paper
 ===
 **Remittances, Human Capital, and Economic Growth in Developing Economies**<br>
-(*draft avaiable upon request*)
+(*draft available upon request*)
 > The paper examines remittances impact on the output growth via human capital accumulation. This channel of transmission of remittance shocks has not been studied theoretically in the economic literature despite the positive impact of remittances on human capital being documented empirically both in single-country and cross-country studies. The baseline model is calibrated to the economy of Philippines, and the results of the quantitative analysis indicate that the long-run dynamics of the outout following a positive remittance shock is determined by a shift in the output trend. The proposed extended model augments the baseline model with the labor market dynamics channel, and it can be applied to perform the welfare analysis and study the policy implications. 
 
 Other Publications
