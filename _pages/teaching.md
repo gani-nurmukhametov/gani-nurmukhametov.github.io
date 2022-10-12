@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-(*I*: Instructor, *TA*: Teaching Assistant, *G*: Grader; 
+(*I*: Instructor, *TA*: Teaching Assistant, *G*: Grader;<br/> 
 *u*: undergraduate-level course, *g*: graduate-level course)
 
 ## University of Washington, Michael G. Foster School of Business  
