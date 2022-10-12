@@ -25,8 +25,8 @@ Please find my Curriculum Vitae  [here](https://gani-nurmukhametov.github.io/fil
 Research Interests
 ------
 * Macroeconomics
-* International economics
-* Economic growth
+* International Economics
+* Economic Growth
 
 
 Teaching Experience
