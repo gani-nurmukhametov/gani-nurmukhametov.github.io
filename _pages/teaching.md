@@ -12,9 +12,9 @@ author_profile: true
   * Introduction to Statistical Methods<sup>*u*</sup> (QMETH 201): Sum2022<sup>*I*</sup>, Aut2022<sup>*TA*</sup>
   * Business Statistics<sup>*g*</sup> / Probability and Statistics<sup>*g*</sup> / Data Analysis<sup>*g*</sup> (*Statistics course in various graduate
 programs*): Win2017<sup>*TA*</sup>, Aut2017<sup>*TA*</sup>, Win2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Aut2018<sup>*TA*</sup>, Win2019<sup>*TA*</sup>, Sum2019<sup>*TA*</sup>, Aut2019<sup>*TA*</sup>, Win2020<sup>*TA*</sup>, Sum2020<sup>*TA*</sup>, Win2021<sup>*TA*</sup>, Sum2021<sup>*TA*</sup>, Win2022<sup>*TA*</sup>, Sum2022<sup>*TA*</sup>
-  * Project Management<sup>*g*</sup> (OPGMT 550): Spr2022<sup>*TA*</sup>
-  * Introduction to Operations Management<sup>*g*</sup> (OPGMT 502): Aut2021<sup>*TA*</sup>
-  * Principles of Operations Management<sup>*u*</sup> (OPGMT 301): Win2020<sup>*G*</sup>, Aut2020<sup>*G*</sup>, Spr2022<sup>*TA*</sup>
+  * Project Management<sup>*g*</sup> (OPMGT 550): Spr2022<sup>*TA*</sup>
+  * Introduction to Operations Management<sup>*g*</sup> (OPMGT 502): Aut2021<sup>*TA*</sup>
+  * Principles of Operations Management<sup>*u*</sup> (OPMGT 301): Win2020<sup>*G*</sup>, Aut2020<sup>*G*</sup>, Spr2022<sup>*TA*</sup>
   * Decision Modeling<sup>*g*</sup> / Spreadsheet Modeling<sup>*g*</sup> / Business Decision Models<sup>*g*</sup> (*Decision Modeling course in various graduate
 programs*): Spr2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Spr2019<sup>*TA*</sup>, Sum2019<sup>*TA*</sup>, Spr2020<sup>*TA*</sup>, Sum2020<sup>*G*</sup>
 
