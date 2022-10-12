@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Research"
     url: /research/
+
+  - title: "Teaching"
+    url: /teaching/    
 
   - title: "Personal"
     url: /personal/
