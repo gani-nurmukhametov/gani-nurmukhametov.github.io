@@ -83,7 +83,7 @@ author:
   name             : "Gani Nurmukhametov"
   avatar           : "Gani_Nurmukhametov.jpg"
   bio              : "Economics Ph.D. Candidate"
-  location         : "Seattle, WA, USA"
+  #location         : "Seattle, WA, USA"
   employer         : University of Washington (Seattle)
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   #impactstory      : "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gani-nurmukhametov/"
+  linkedin         : "gani-nurmukhametov"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
