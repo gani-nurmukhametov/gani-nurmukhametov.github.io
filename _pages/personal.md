@@ -18,4 +18,4 @@ with my brother, sister-in-law, mother, and wife.
 
 My three joys in life (coffee, Mango, and Rouffles) - before my son was born.
 
-<img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/Pin.jpeg" width ="200"> <img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/Father's Day.jpeg" width ="200">
+<img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/Pin.jpeg" width ="400"> <img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/Father's Day.jpeg" width ="200">
