@@ -5,9 +5,6 @@ permalink: /personal/
 author_profile: true
 ---
 
-<img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/Gani_Nurmukhametov.jpg" width ="400">
-
-
 My wife Nadia and I in Lake Tekapo, New Zealand in 2019
 
 <img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/New Zealand - 2019.jpg" width ="400">
