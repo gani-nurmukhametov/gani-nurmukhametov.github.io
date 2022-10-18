@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-My wife Nadia and I in Lake Tekapo, New Zealand in 2019
+My wife Nadia and I in Lake Tekapo, New Zealand in 2019.
 
 <img src="/images/new_zealand_2019.jpg" width ="450">
 
