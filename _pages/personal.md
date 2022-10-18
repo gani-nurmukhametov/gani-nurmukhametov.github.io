@@ -7,11 +7,9 @@ author_profile: true
 
 My wife Nadia and I in Lake Tekapo, New Zealand in 2019
 
-![](images/new_zealand_2019.jpg)
-
 <img src="https://github.com/gani-nurmukhametov/gani-nurmukhametov.github.io/blob/master/images/new_zealand_2019.jpg" width ="400">
 
-<img src="/images/new_zealand_2019.jpg" width ="400">
+<img src="/images/new_zealand_2019.jpg" width ="600">
 
 
 Visiting my home city Kazan in 2017, a family photo <br>
