@@ -5,12 +5,12 @@ permalink: /personal/
 author_profile: true
 ---
 
-My wife Nadia and I in Lake Tekapo, New Zealand in 2019.
+My wife Nadia and I in Lake Tekapo, New Zealand in 2018.
 
 <img src="/images/new_zealand_2019.jpg" width ="450">
 
 
-Visiting my home city Kazan in 2017. Family photo with my <br>
+Visiting my home city Kazan in 2016. Family photo with my <br>
 brother Azat, sister-in-law Guzel, mother Albina, and wife Nadia.
 
 <img src="/images/kazan_2017.jpg" width ="450">
