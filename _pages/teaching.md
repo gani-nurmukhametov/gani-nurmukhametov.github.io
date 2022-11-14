@@ -26,6 +26,6 @@ programs*): Spr2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Spr2019<sup>*TA*</su
   * Introduction to Macroeconomics<sup>*u*</sup> (ECON 201): Win2016<sup>*TA*</sup>, Aut2016<sup>*TA*</sup> 
   * Introduction to Microeconomics<sup>*u*</sup> (ECON 200): Aut2015<sup>*TA*</sup>
 
-Statement of Teaching Philosophy
+Statements of Teaching Philosophy and Diversity, Equity, and Inclusion (DEI)
 ------
-Please find my teaching statement [here](https://gani-nurmukhametov.github.io/files/GaniNurmukhametov_Teaching_Statement.pdf).
+Please find my [teaching statement](https://gani-nurmukhametov.github.io/files/GaniNurmukhametov_Teaching_Statement.pdf) and [DEI statement](https://gani-nurmukhametov.github.io/files/GaniNurmukhametov_DEI_Statement.pdf).
