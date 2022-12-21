@@ -11,7 +11,7 @@ author_profile: true
 ## University of Washington, Michael G. Foster School of Business  
   * Introduction to Statistical Methods<sup>*u*</sup> (QMETH 201): Sum2022<sup>*I*</sup>, Aut2022<sup>*TA*</sup>
   * Business Statistics<sup>*g*</sup> / Probability and Statistics<sup>*g*</sup> / Data Analysis<sup>*g*</sup> (*Statistics course in various graduate
-programs*): Win2017<sup>*TA*</sup>, Aut2017<sup>*TA*</sup>, Win2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Aut2018<sup>*TA*</sup>, Win2019<sup>*TA*</sup>, Sum2019<sup>*TA*</sup>, Aut2019<sup>*TA*</sup>, Win2020<sup>*TA*</sup>, Sum2020<sup>*TA*</sup>, Win2021<sup>*TA*</sup>, Sum2021<sup>*TA*</sup>, Win2022<sup>*TA*</sup>, Sum2022<sup>*TA*</sup>
+programs*): Win2017<sup>*TA*</sup>, Aut2017<sup>*TA*</sup>, Win2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Aut2018<sup>*TA*</sup>, Win2019<sup>*TA*</sup>, Sum2019<sup>*TA*</sup>, Aut2019<sup>*TA*</sup>, Win2020<sup>*TA*</sup>, Sum2020<sup>*TA*</sup>, Win2021<sup>*TA*</sup>, Sum2021<sup>*TA*</sup>, Win2022<sup>*TA*</sup>, Sum2022<sup>*TA*</sup>, Win2023<sup>*TA*</sup>
   * Project Management<sup>*g*</sup> (OPMGT 550): Spr2022<sup>*TA*</sup>
   * Introduction to Operations Management<sup>*g*</sup> (OPMGT 502): Aut2021<sup>*TA*</sup>
   * Principles of Operations Management<sup>*u*</sup> (OPMGT 301): Win2020<sup>*G*</sup>, Aut2020<sup>*G*</sup>, Spr2022<sup>*TA*</sup>
@@ -25,6 +25,9 @@ programs*): Spr2018<sup>*TA*</sup>, Sum2018<sup>*TA*</sup>, Spr2019<sup>*TA*</su
   * Topics in Financial Economics<sup>*u*</sup> (ECON 423): Spr2016<sup>*G*</sup>
   * Introduction to Macroeconomics<sup>*u*</sup> (ECON 201): Win2016<sup>*TA*</sup>, Aut2016<sup>*TA*</sup> 
   * Introduction to Microeconomics<sup>*u*</sup> (ECON 200): Aut2015<sup>*TA*</sup>
+
+## Seattle University, Albers School of Business and Economics
+  * Principles of Macroeconomics<sup>*u*</sup> (ECON 2130): Spr2023<sup>*I*</sup> 
 
 Statements of Teaching Philosophy and Diversity, Equity, and Inclusion
 ------
